@@ -17,11 +17,12 @@ Dokumentasi lebih lanjut dapat diakses dari https://docs.google.com/presentation
 
 
 
-Kontribusi
+**Kontribusi**
+
 Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
 
-Fork repositori ini.
-Buat branch fitur (git checkout -b fitur/nama-fitur).
-Commit perubahan Anda (git commit -m 'Menambahkan fitur baru').
-Push ke branch (git push origin fitur/nama-fitur).
-Buat permintaan pull.
+1. **Fork repositori ini.**
+2. **Buat branch fitur (git checkout -b fitur/nama-fitur).**
+3. **Commit perubahan Anda (git commit -m 'Menambahkan fitur baru').**
+4. **Push ke branch (git push origin fitur/nama-fitur).**
+5. **Buat permintaan pull.**
